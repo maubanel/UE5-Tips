@@ -7,7 +7,11 @@
 
 ## Keyboard Shortcuts
 
-*  <kbd>cntrl</kbd> & <kbd>space</kbd> toggles **Content Drawer**.
+*  <kbd>cntrl</kbd> & <kbd>space</kbd> toggles **Content Drawer**. This works while in other windows.\\
+
+## UI / Layout
+
+* For a **Place Actors** window go to `Edit | Place Actor's Panel`.
 
 <br><br>
 
