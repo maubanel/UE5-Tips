@@ -7,7 +7,7 @@
 
 ## Keyboard Shortcuts
 
-*  <kbd>cntrl</kbd> & <kbd>space</kbd>
+*  <kbd>cntrl</kbd> & <kbd>space</kbd> brings up and down **Content Browser**.
 
 <br><br>
 
