@@ -7,7 +7,8 @@
 
 ## Keyboard Shortcuts
 
-*  <kbd>cntrl</kbd> & <kbd>space</kbd> toggles **Content Drawer**. This works while in other windows.\\
+*  <kbd>cntrl</kbd> & <kbd>space</kbd> toggles **Content Drawer**. This works while in other windows.
+*  <kbd>n</kbd> snaps object to collide with surface below.
 
 ## UI / Layout
 
