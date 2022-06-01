@@ -10,7 +10,7 @@
 *  <kbd>cntrl</kbd> & <kbd>space</kbd> toggles **Content Drawer**. This works while in other windows.
 *  <kbd>end</kbd> key snaps object to collide with surface below.
 *  <kbd>C</kbd> key to group blueprint nodes and add a comment/title.
-
+*. <kbd>G<kbd> key to hide icons in editor for game view
 ## UI / Layout
 
 * For a **Place Actors** window go to `Edit | Place Actor's Panel`.
