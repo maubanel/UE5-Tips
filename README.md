@@ -14,9 +14,9 @@
 *  <kbd>Left Mouse Button</kbd> and mouse movement forward and backwards moves camera forward and backward, left and right rotates.
 *  <kbd>Right Mouse Button</kbd> rotates.
   *  Keyboard controls below with letters needs a mouse button pressed to engage
-*  <kbd>Up Arrow / Numpad 8 / W</kbd> or <kbd>Left Arrow / Keypad 2 / A</kbd> or <kbd>Down Arrow / Numpad 6 / S</kbd> or <kbd>Right Arrow / Numpad 6 / D</kbd> Move Camera Forward, Left, Back and Right.
-*  <kbd>Page Up / Numpad 9 / E<kbd> camera down
-*  <kbd>Page Down / Numpad 7 / Q<kbd> camera up 
+*  <kbd>Up Arrow / Numpad 8 / W</kbd> or <kbd>Left Arrow / Keypad 2 / A</kbd> or <kbd>Down Arrow / Numpad 6 / S</kbd> or <kbd>Right Arrow / Numpad 6 / D</kbd> move camera forward, left, back and right.
+*  <kbd>Page Up / Numpad 9 / E</kbd> camera down
+*  <kbd>Page Down / Numpad 7 / Q</kbd> camera up 
   
   E / Numpad9 / Page Up
 ## UI / Layout
