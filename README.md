@@ -11,8 +11,8 @@
 *  <kbd>end</kbd> key snaps object to collide with surface below.
 *  <kbd>C</kbd> key to group blueprint nodes and add a comment/title.
 *  <kbd>G</kbd> key to hide icons in editor for game view
-*  <kbd>Left Mouse Button<kbd> and mouse movement forward and backwards moves camera forward and backward, left and right rotates.
-*  <kbd>Right Mouse Button<kbd> rotates.
+*  <kbd>Left Mouse Button</kbd> and mouse movement forward and backwards moves camera forward and backward, left and right rotates.
+*  <kbd>Right Mouse Button</kbd> rotates.
   *  Keyboard controls below with letters needs a mouse button pressed to engage
 *  <kbd>Up Arrow / Numpad 8 / W</kbd> or <kbd>Left Arrow / Keypad 2 / A</kbd> or <kbd>Down Arrow / Numpad 6 / S</kbd> or <kbd>Right Arrow / Numpad 6 / D</kbd> Move Camera Forward, Backwards, Left and Right.
 *  <kbd>Page Up / Numpad 9 / E<kbd> camera down
